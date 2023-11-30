@@ -1,0 +1,12 @@
+REQUIREMENTS:
+
+
+- An IDE to open .ipynb and .py files. (Recommended: Visual Studio Code + Python 3.6+)
+- Installments of required extensions (activate by copy-pasting into terminal):
++ scikit-learn: pip install -U scikit-learn
++ numpy: pip install numpy
++ pandas: pip install pandas
++ pickle: pip install pickle
+
+- Download database (.csv file), and save that file's path in File Explorer.
+- Installment of FastAPI: pip install "fastapi[all]"
