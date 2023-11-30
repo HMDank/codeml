@@ -1,0 +1,11 @@
+{
+    "manufacture_date": 2020,
+    "brand": "Toyota",
+    "model": "Vios",
+    "origin": "Việt Nam",
+    "type": "Sedan",
+    "seats": 5.0,
+    "gearbox": "MT",
+    "fuel": "petrol",
+    "mileage_v2": 99999
+}
