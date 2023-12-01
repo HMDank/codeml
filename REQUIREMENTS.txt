@@ -7,6 +7,7 @@ REQUIREMENTS:
 + numpy: pip install numpy
 + pandas: pip install pandas
 + pydantic: pip install pydantic
+pip install python-multiport
 
 - Download database (.csv file), and save that file's path in File Explorer.
 - Installment of FastAPI: pip install "fastapi[all]"
