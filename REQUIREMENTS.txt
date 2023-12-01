@@ -6,7 +6,7 @@ REQUIREMENTS:
 + scikit-learn: pip install -U scikit-learn
 + numpy: pip install numpy
 + pandas: pip install pandas
-+ pickle: pip install pickle
++ pydantic: pip install pydantic
 
 - Download database (.csv file), and save that file's path in File Explorer.
 - Installment of FastAPI: pip install "fastapi[all]"
